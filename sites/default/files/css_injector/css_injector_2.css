@@ -1,0 +1,11 @@
+article.node,
+div.region-sidebar-second {
+    border-radius: 6px;
+    background-color: #eee;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+ul.links {
+    margin-top: 5px;
+}

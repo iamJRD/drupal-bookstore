@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: Lucida Console, Monaco5, monospace;
+  background: url("http://i.imgur.com/cJfEKzJ.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1.page-header,
+div.region-footer,
+div.form-type-select label.control-label{
+    color: #8000FF;
+}
+
+#page-header {
+    color: #FF0100;
+}
